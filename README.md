@@ -1,8 +1,8 @@
 # Hi there, I'm Yurii Abramenko 👋
 
-### Python Developer | FinTech Enthusiast |
+### Python Developer | FinTech Enthusiast | Founder of [Stay-Tuned](https://stay-tuned.io/)
 
-I am a Python developer focused on building tools for **financial market analysis**, **data processing**, and **API automation**. I enjoy creating open-source solutions that help developers and traders streamline their workflows.
+I am a Python developer and the founder of **[Stay-Tuned](https://stay-tuned.io/)**. I focus on building tools for **financial market analysis**, **data processing**, and **API automation**, creating open-source solutions that help developers and traders streamline their workflows.
 
 ---
 
@@ -15,6 +15,7 @@ I am a Python developer focused on building tools for **financial market analysi
 ---
 
 ### 🚀 Key Projects
+* **[Stay-Tuned](https://stay-tuned.io/)** – Founder of the platform. 
 * **[fin-pocket](https://github.com/canyoupleasecreateanaccount/fin-pocket)** – A lightweight Python library for technical analysis and automated chart pattern recognition.
 * **[pycamel](https://github.com/canyoupleasecreateanaccount/pycamel)** – An automation framework for comprehensive API service coverage, designed to work seamlessly with pytest.
   
