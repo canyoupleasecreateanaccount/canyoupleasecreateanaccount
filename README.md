@@ -15,6 +15,7 @@ I am a Python developer and the founder of **[Stay-Tuned](https://stay-tuned.io/
 ---
 
 ### 🚀 Key Projects
+* **[SolveMe Solution](https://www.solveme-solutions.online/)** – Our site. 
 * **[Stay-Tuned](https://stay-tuned.io/)** – Founder of the platform. 
 * **[fin-pocket](https://github.com/canyoupleasecreateanaccount/fin-pocket)** – A lightweight Python library for technical analysis and automated chart pattern recognition.
 * **[pycamel](https://github.com/canyoupleasecreateanaccount/pycamel)** – An automation framework for comprehensive API service coverage, designed to work seamlessly with pytest.
